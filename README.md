@@ -1,96 +1,126 @@
 <div align="center">
 
-# ⚡ Hello World, I'm @ark4ng3l
-### Full-Stack AI Engineer • Cybersecurity Researcher • Autonomous Systems Architect
+  <!-- Typing Header Animation -->
+  <a href="https://github.com/ark4ng3l">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F2FE&center=true&vCenter=true&width=650&lines=⚡+Hello+World%2C+I'm+Ark4ng3l;🧠+Vibe+Coder+%7C+AI+Systems+Architect;🛡️+Cybersecurity+%26+Autonomous+OSINT+Builder;🚀+Shipping+Ideas+at+the+Speed+of+Thought..." alt="Typing Header" />
+  </a>
 
-<br/>
+  <br/>
 
-[![GitHub Followers](https://img.shields.io/github/followers/ark4ng3l?label=Followers&style=for-the-badge&color=38bdf8)](https://github.com/ark4ng3l)
-[![GitHub Repos](https://img.shields.io/badge/Public_Repos-9+-10b981?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ark4ng3l?tab=repositories)
-[![Security Focus](https://img.shields.io/badge/Specialization-Cyber_Security_%26_AI-8b5cf6?style=for-the-badge&logo=kalilinux&logoColor=white)](https://github.com/ark4ng3l)
+  <!-- Status Badges -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Vibe_Coder-100%25_Flow_State-8b5cf6?style=for-the-badge&logo=openai&logoColor=white" alt="Vibe Coder" />
+    <img src="https://img.shields.io/badge/Focus-Multi--Agent_Swarm_%26_OSINT-00f2fe?style=for-the-badge&logo=deepnote&logoColor=black" alt="Focus" />
+    <img src="https://img.shields.io/badge/AI_Engine-Local_Uncensored_LLMs-10b981?style=for-the-badge&logo=ollama&logoColor=white" alt="Local LLMs" />
+  </p>
 
-<br/>
-
-```ascii
-     _         _       _                   _____  _ 
-    / \   _ __| | __  / \   _ __   __ _ 3 / / _ \| |
-   / _ \ | '__| |/ / / _ \ | '_ \ / _` | / / | | | |
-  / ___ \| |  |   < / ___ \| | | | (_| |/ /| |_| | |___ 
- /_/   \_\_|  |_|\_/_/   \_\_| |_|\__, /_/  \___/|_____|
-                                  |___/                 
-           SECURITY RESEARCHER // AI ARCHITECT
-```
+  <p align="center">
+    <a href="https://github.com/ark4ng3l?tab=followers"><img src="https://img.shields.io/github/followers/ark4ng3l?label=Followers&style=flat-square&color=38bdf8&logo=github" alt="Followers" /></a>
+    <a href="https://github.com/ark4ng3l?tab=repositories"><img src="https://img.shields.io/badge/Repositories-28+-ec4899?style=flat-square&logo=git&logoColor=white" alt="Repos" /></a>
+    <img src="https://img.shields.io/badge/Location-Cyberspace-f59e0b?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 🔮 The Vibe Manifesto
 
-- 🛡️ Passionate about **Autonomous Cyber Intelligence (OSINT)**, **Multi-Agent Systems**, and **Offensive / Defensive Security**.
-- 🧠 Engineering multi-model AI reasoning pipelines utilizing **Local Uncensored LLMs** (Ollama, HuggingFace, Transformers).
-- 🚀 Building resilient desktop applications, cryptographic utilities, and scalable enterprise management platforms.
+> *"I don't just write syntax — I orchestrate intelligences, ride the flow state, and turn complex ideas into robust AI platforms and cyber-reconnaissance tools at lightning speed."* ⚡
+
+* 🧠 **Autonomous AI Architect:** Building Graph-RAG architectures, multi-agent swarms, and voice-enabled local intelligence pipelines.
+* 🛡️ **Cybersecurity & OSINT Researcher:** Engineering tactical reconnaissance suites, high-speed DNS intelligence, and cryptographic analyzers.
+* ⚡ **Product & Flow Mindset:** From architectural idea to fully functional MVP in record time through cutting-edge AI orchestration.
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Ecosystem
 
 <div align="center">
 
-| Project | Description | Tech Stack |
+| Project | Category & Description | Tech & Vibe Stack |
 | :--- | :--- | :--- |
-| 🌐 **[AETHER](https://github.com/ark4ng3l/aether)** | Next-Gen Cyber OSINT Operations Platform with 6 Local Uncensored Models, Cytoscape Graph & Telemetry | `Python 3.13` `FastAPI` `Ollama` `Cytoscape` |
-| 🤖 **[MasterAgent](https://github.com/ark4ng3l/MasterAgent)** | Autonomous Multi-Agent Swarm with Graph-RAG, Long-Term Memory, Telegram Bot & Terminal Server | `Python` `Multi-Agent` `Graph-RAG` `Telegram` |
-| 🔍 **[DNSLOOKUP](https://github.com/ark4ng3l/DNSLOOKUP)** | Advanced DNS Intelligence & Reconnaissance Suite querying 14 record types with latency timing | `Python` `dnspython` `OSINT` `PrettyTable` |
-| ⚡ **[HashTool](https://github.com/ark4ng3l/HashTool)** | Multi-Core Cryptographic Hash Cracker, Identifier & Integrity Verifier (MD5, SHA-2/3, BLAKE2) | `Python` `Multiprocessing` `Cryptography` |
-| 🪙 **[Gold Manager ERP](https://github.com/ark4ng3l/gold2)** | Comprehensive Persian Jewelry Accounting, Invoicing & Inventory System (سامانه حسابداری طلافروشی) | `Python` `Tkinter` `SQLite` `Jalali Calendar` |
-| 🎙️ **[My AI Project](https://github.com/ark4ng3l/my_ai_project)** | Multimodal AI Assistant with Voice Recognition (Persian/English), Offline TTS & Docker Support | `Python` `HuggingFace` `SpeechRecognition` `Docker` |
+| 🌐 **[AETHER](https://github.com/ark4ng3l/aether)** | **Autonomous Cyber OSINT & Intelligence Platform**<br/>Powered by 6 local uncensored LLMs, dynamic Cytoscape graph visualization & real-time telemetry. | `Python 3.13` `FastAPI` `Ollama` `Cytoscape` `OSINT` |
+| 🤖 **[MasterAgent](https://github.com/ark4ng3l/MasterAgent)** | **Autonomous Multi-Agent Swarm Platform**<br/>Graph-RAG powered multi-agent coordinator with persistent memory, Telegram Bot integration & CLI server. | `Multi-Agent` `Graph-RAG` `Telegram API` `Python` |
+| 🎙️ **[My AI Project](https://github.com/ark4ng3l/my_ai_project)** | **Multimodal AI Assistant**<br/>Voice recognition (Persian / English), offline TTS, long-term SQLite memory & Docker packaging. | `SpeechRecognition` `Transformers` `Docker` `SQLite` |
+| 🔍 **[DNSLOOKUP](https://github.com/ark4ng3l/DNSLOOKUP)** | **Advanced DNS Intelligence & Recon Suite**<br/>Automated lookup across 14 record types with latency timing benchmarks and structured table export. | `Python` `dnspython` `Network Recon` `PrettyTable` |
+| ⚡ **[HashTool](https://github.com/ark4ng3l/HashTool)** | **Multi-Core Cryptographic Cracker & Verifier**<br/>Parallel processing hash identification and integrity verification (MD5, SHA-2/3, BLAKE2). | `Multiprocessing` `Cryptography` `Security Tools` |
+| 🪙 **[Gold Manager ERP](https://github.com/ark4ng3l/gold2)** | **Persian Gold Jewelry Accounting & ERP**<br/>Comprehensive inventory management, invoicing, and calculation suite tailored for gold markets. | `Python` `Tkinter` `SQLite` `Jalali Calendar` |
 
 </div>
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ The Vibe Coding & Engineering Arsenal
 
 <div align="center">
 
-### 💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🤖 AI Orchestration & Agentic Flow
+<p>
+  <img src="https://img.shields.io/badge/Ollama-Local_AI-8b5cf6?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Multi--Agent-Autonomous_Swarms-00f2fe?style=for-the-badge&logo=deepnote&logoColor=black" />
+  <img src="https://img.shields.io/badge/Graph--RAG-Knowledge_Retrieval-ec4899?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-Vector_DB-dc2626?style=for-the-badge&logo=qdrant&logoColor=white" />
+</p>
 
-### 🧠 Artificial Intelligence & LLMs
-![Ollama](https://img.shields.io/badge/Ollama-Local_AI-8b5cf6?style=for-the-badge&logo=ollama&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Qdrant](https://img.shields.io/badge/Qdrant-Vector_DB-dc2626?style=for-the-badge&logo=qdrant&logoColor=white)
+### 💻 Core Languages & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Python-3.13+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-High_Performance-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-Low_Level-A8B9CC?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
 
-### 🛡️ Cybersecurity & Forensics
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-Reverse_Engineering-f97316?style=for-the-badge)
-![Cryptography](https://img.shields.io/badge/Cryptography-Hash_Cracking-10b981?style=for-the-badge)
+### 🛡️ Cybersecurity, OSINT & Recon
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-Offensive_Sec-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-Packet_Analysis-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ghidra-Reverse_Engineering-f97316?style=for-the-badge&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-Threat_Intelligence-10b981?style=for-the-badge&logo=opensearch&logoColor=white" />
+</p>
 
-### 🗄️ Databases & Cloud
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### 📦 DevOps, Databases & Tooling
+<p>
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-Embedded_DB-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Bash-Terminal-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Live GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ark4ng3l&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="ark4ng3l GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark4ng3l&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <a href="https://github.com/ark4ng3l">
+    <img src="https://github-readme-stats.vercel.app/api?username=ark4ng3l&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f2fe&text_color=94a3b8&icon_color=38bdf8&bg_color=0b0f19" height="165" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ark4ng3l&layout=compact&theme=tokyonight&hide_border=true&title_color=00f2fe&text_color=94a3b8&bg_color=0b0f19" height="165" alt="Top Languages" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/ark4ng3l">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ark4ng3l&theme=tokyonight&hide_border=true&background=0b0f19&ring=00f2fe&fire=38bdf8&currStreakLabel=00f2fe&sideLabels=94a3b8" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-<b>© 2026 @ark4ng3l</b> • Built for Security, Innovation & Autonomous Intelligence
+  
+  ### 🌐 Connect & Collaborate
+  
+  <p align="center">
+    <a href="https://github.com/ark4ng3l"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:ark4ng3l@users.noreply.github.com"><img src="https://img.shields.io/badge/Email-Direct_Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+
+  <sub>⚡ Crafted with pure flow & AI orchestration • <b>© 2026 @ark4ng3l</b></sub>
+
 </div>
